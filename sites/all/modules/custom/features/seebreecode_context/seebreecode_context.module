@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the seebreecode_context feature.
+ */
+
+include_once 'seebreecode_context.features.inc';

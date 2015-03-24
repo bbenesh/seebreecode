@@ -1,0 +1,13 @@
+name = seebreecode_context
+core = 7.x
+package = Features
+version = 7.x-1.0
+project = seebreecode_context
+dependencies[] = block
+dependencies[] = context
+dependencies[] = ctools
+dependencies[] = views
+features[context][] = global
+features[ctools][] = context:context:3
+features[features_api][] = api:2
+project path = sites/all/modules/custom/features

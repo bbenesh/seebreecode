@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the seebreecode_content_types_taxonomies feature.
+ */
+
+include_once 'seebreecode_content_types_taxonomies.features.inc';

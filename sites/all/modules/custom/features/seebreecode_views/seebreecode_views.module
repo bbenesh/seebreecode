@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the seebreecode_views feature.
+ */
+
+include_once 'seebreecode_views.features.inc';
